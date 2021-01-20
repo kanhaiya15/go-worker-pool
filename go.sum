@@ -1,4 +1,0 @@
-github.com/kanhaiya15/go-worker-pool/consumer v0.0.0-20210120203448-da1973db1852 h1:ilWxO+LKRQBIENUJJYE1+Gsych3bIQdkxZHFTwE96DU=
-github.com/kanhaiya15/go-worker-pool/consumer v0.0.0-20210120203448-da1973db1852/go.mod h1:1bMj3ZO769+SSTIDR6EwJU2IBCziU7tunMsAPrfXg6Y=
-github.com/kanhaiya15/go-worker-pool/producer v0.0.0-20210120203448-da1973db1852 h1:YekSgXtGIn9OiYzNW7gt91aKtZ2gy9NJFKjkdFvq/Js=
-github.com/kanhaiya15/go-worker-pool/producer v0.0.0-20210120203448-da1973db1852/go.mod h1:Yb/7FNXJO0KPTRUEgb+RaAFwoKKX/h0jUA6FkONyPMs=
