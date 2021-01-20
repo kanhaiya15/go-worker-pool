@@ -9,8 +9,8 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/kanhaiya15/go-worker-pool/producer-consumer/consumer"
-	"github.com/kanhaiya15/go-worker-pool/producer-consumer/producer"
+	"github.com/kanhaiya15/go-worker-pool/consumer"
+	"github.com/kanhaiya15/go-worker-pool/producer"
 )
 
 var (

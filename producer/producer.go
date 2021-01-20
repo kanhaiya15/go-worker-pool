@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kanhaiya15/go-worker-pool/producer-consumer/utils"
+	"github.com/kanhaiya15/go-worker-pool/utils"
 )
 
 // Producer simulates an external library that invokes the
